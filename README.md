@@ -1,34 +1,5 @@
-# Quasar App (notebook)
-
-A Quasar Project
-
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
+# Описание проекта
+Проект реализован на Quasar , в функционал входит добавление заметок и диаграмм , в дальнейшем будет добавлен функционал авторизации для сохранения созданных заметок и диаграмм.
 
 
 
